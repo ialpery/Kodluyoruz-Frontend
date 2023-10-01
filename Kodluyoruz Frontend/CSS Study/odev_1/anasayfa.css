@@ -1,0 +1,32 @@
+.container600
+{
+        margin: 0 auto;
+        width:600px;
+        background:#47D1FF;
+}
+
+.container800
+{
+        margin: 0 auto;
+        width:800px;
+        background:#47D1FF;
+}
+
+.container1000
+{
+        margin: 0 auto;
+        width:1500px;
+        background:#47D1FF;
+}
+
+
+.dot {
+    list-style-position: inside;
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+.gillSans {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+  

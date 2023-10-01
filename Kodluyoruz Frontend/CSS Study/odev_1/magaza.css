@@ -1,0 +1,8 @@
+.dot {
+    list-style-position: inside;
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+.bold{
+    font-weight: bold;
+}
